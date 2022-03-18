@@ -1,0 +1,58 @@
+JAVA
+
+pacotes servem para organizar o projeto
+suas classes e interfaces;
+permitem agrupar componentes que tenham
+alguma relação entre si. alem de garantir um
+nivel de controle de acesso.
+
+* o nome do pacote deve ser todo em letras 
+minusculas 
+
+
+tipos primitivos
+
+byte -128 a +127
+char - 0 a +
+
+Ciclo de vida obj
+
+Para criar um objeto vc precisa chamar o construtor
+(usar o new)
+
+váriavel referencia o obj na memoria
+
+objetos inacessiveis podem ser jogados fora pelo 
+garbage collector
+
+String buffer
+
+strings mutaveis
+pode chamar o construtor vazio ou com string
+deve ser instanciado
+para add string usa-se append
+sout já pega um object e chama o metodo toString()
+
+Pode-se definir o tamanho do buffer no constructor
+
+métodos do stringBuffer
+append aceita object (chama o toString())
+insert(posicao, "string")
+delete(pos1, pos2)
+reverse() - inverte td
+trim()
+charAt()
+length
+equal
+indexOf
+substring subSequence (pos1, pos2)
+
+---------------------------------------------------------------
+Classes e métodos
+
+Exemplo do carro, acelerar, freiar e virar
+
+Para realizar uma tarefa é necessário um método
+o metodo descreve o mecanismo necessario para realização da tarefa
+
+
