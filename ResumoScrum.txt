@@ -1,0 +1,357 @@
+Resumo Scrum
+
+Definição do Scrum:
+
+- Um framework que pessoas podem tratar e resolver problemas complexos e adaptativos, enquanto de maneira
+produtiva e criativa entregam um produto de maior valor possivel
+
+O scrum eh
+
+* Leve
+* Simples de entender 
+* Dificil de dominar
+
+Scrum é um framework utilizado no gerenciamento de produtos complexo desde os anos 90.
+Scrum não é um processo ou técnica para construir produtos; e sim pode utilizar várias técnicas 
+e processos e técnicas.
+
+Scrum é fundamentado em três pilares:
+
+- Transparencia, inspeção e adaptação 
+
+Transparencia 
+
+Aspectos significativos do processo devem estar visiveis aos responsaveis pelos resultados.
+
+TOdos devem "falar a mesma língua"
+_ ter uma linguagem comum referindo ao processo.
+_ definção de pronto comum, DoD (Definition of Done)
+
+INSPEÇÃO
+
+OS usuarios scrum devem, frequentemente, inspecionar os artefatos Scrum e o progresso
+em direção a detectar variaçõe. Não deve atrapalha a execução das tarefas. São as dailys, reviews, planning e etc
+
+ADAPTAÇÃO
+
+Quatro eventos formais cotidos dos limites da Sprint.
+
+Reuniao de planejamento, daily, review e retro
+
+TIME SCRUM
+
+é composto por um PO (product owner), time de desenv., e o Scrum Master. 
+
+Aribuições do PO
+
+Dono do produto, ele é responsavel por maximizar o valor do produto e do trabalho do time de dev. Variando de time p time.
+
+O PO é a unica pessoa que gerencia o Backlog do produto. incluindo;
+
+* Expressar claramento os itens do Backlog do produto.
+* ORdenar os itens do backlog do produto para alcançar melhor as metas e missoes
+* Garantir o valor do trabalho realizado pelo time de devs
+* Garantir que o backlog do produto seja visivel, transparente e claro para todos, e mostrar o qu eo time 
+Scrum vai trabalhar e seguir, e 
+* Garantir que o time de devs entenda os itens do backlog do produto no nivel necessario
+
+Para o PO ter sucesso td a organização deve respeitar suas decisoes
+
+TIME DEV 
+
+o time de desenvolvimento consiste de profissionais que realizam o trabalho de entregar uma versão 
+usavel que potencialmente incrementa o produto PRONTO ao final de cada sprint.
+Caracteristicas:
+
+* Sao auto organizados. Ngm diz ao time como transformar o Backlog do produto em incfremntos de func
+potencialment utilizaveis
+* são multifuncionais . possuindo tds as habilidades necessarias enquanto eequipe, para criar o incremento
+do produto.
+
+Backlog do produto
+
+É uma lista ordenada de tudo que deve ser necessario no produto.
+É uma origem única de requisitos.
+O PO é responsavel
+Durante o processo de produção o backlog evolui junto com o produto.
+sendo os iniciais os mais conhecidos e melhor entendidos.
+O backlog eciste enquanto o produto tambem existir
+
+
+--------------------------------------------------------
+ALURA
+
+scrum vem de formação no rugby, onde tds se juntam e se um errar 
+todos erraram.
+
+pegou a bola e tem uma corrida rápida para marcar pontos,
+famosa sprint
+
+CONCEITOS 
+
+Timeboxes - caixinha rígida de tempo, a sprint tem tempo fixo
+Sprint - tempo limite para agregar valor (marcar os pontos) 
+até 1 mes
+
+duração da sprint
+
+início do projeto (qnd não esta mto claro os obj):
+sprints mais curtos  = mais feedbacks
+sprints mais longos em projetos mais "indivisiveis"
+qnd tem q aprender uma tecnologia = - chances de fb
+
+Review meeting (durante 2,5% da sprint)
+
+reuniao para mostrar os valores construidos.
+integrada por cliente, time de desenv, usuario, sm e po.
+
+Definição de pronto
+Passos que uma historia tem que fazer até ficar done
+"ser mostravel ao cliente"
+
+RETROSPECTIVA
+
+ultimo time box, depois da review, max 2hr
+visa melhoria contínua, onde o time conversa e vê 
+pontos que foram positivos e negativos na sprint que 
+passou.
+Todos devem ser transparentes.
+
+prime directive: 
+			
+basicamente, todos entendemos e acreditamos quue todos,
+fizeram o possivel com os recursos disponiveis, ou seja,
+não é momento de apontar culpados
+
+daily scrum
+
+15 min, falar o q fez da ultima daily o q fara e os problema
+
+PO chega com o backlog devidademente priorizado, discute
+com os devs e divide em mais partes se necessário.
+Negocia o q vai caber na sprint
+
+histórias e tarefas
+
+deve ter um título
+a historia deve conter os motivos para que deve ser feita
+, como deve ser feita e o objetivo (quero);
+
+backlogs
+
+* A lista priorizada,product backlog, é gerenciada pelo PO
+(product backlog) contem somente as historias do projeto td
+- foca no que gera valor ao cliente
+
+* sprint backlog é do time inteiroo, lista priorizada de 
+historias que serao feitas na sprint
+
+HISTORIA EXEMPLO
+
+[TÍTULO]
+
+**Para...** [por que o pedido é importante]
+**No papel de...** [para quem é importante]
+**Quero...** [o pedido em si]
+
+EXEMPLO ONDETRABALHAR.COM
+
+            VAGAS POR LOCALIDADE
+**Para...** não perder tempo olhando cada vaga para descobrir se é na minha cidade
+**No papel de...** pessoa procurando trabalho
+**Quero...** ter a opção de filtrar as vagas de trabalho por cidade
+
+SCRUM MASTER 
+
+Ajuda o time com os processos scrum
+é um facilitador, ajuda com time boxes e etc
+Sentar com o cliente e conversar em alguns casos
+Ajuda na comunicação do time
+Resolver impedimentos
+
+O que são impedimentos?
+
+Diferente de problema
+problema é função do time resolver
+impedimento começa com problema
+Quando o time não consegue resolver
+
+PRODUCT OWNER
+
+* Representante do cliente dentro do time
+* mantém o product backlog sempre atualizado
+* responsável a entregar o máximom de valor
+possivel em cada sprint ao cliente
+* participar das reunioes 
+* responder duvidas dos devs sobre historias ou indicar
+quem pode melhor responde-las
+* deixar claro ao time qual o valor de negocios de cada
+sprint
+* feedback dos clientes e extrair dai necessidades
+
+DESENVOLVEDORES
+
+* todos que ajudam o projeto a evoluir
+* estimam esforço para as historias
+* negociam quais tarefas serão realizadas
+* decidem quem faz o q
+
+
+-----------------------------------------------------
+Metodologia -> Framework
+
+Meto. conjunto de metodos com o objetivo de alcançar um 
+objetivo/prpduto específico, exemplo do carro.
+
+Fram. te dá regras e principios, mas vc pode aplicar de n 
+maneiras e alcançar n objetivos.
+
+Desenvolvimento iterativo
+
+Administrar melhor as mudanças
+Atender as necessidades do cliente
+Delinear responsabilidades
+
+Empirismo
+
+Controle do processo empirico (3 pilares) 
+* Transparencia (sabemos oq os colegas estão fazendo)
+* Inspeção 
+* Adaptação
+
+Papéis 
+
+Stakeholders: Desde o time de trabalho até o cliente,
+que tenham opnioes/interesses
+Scrum Guidance Body
+Fornecedores
+Dono do Produto Chefe
+
+Tarefas 
+
+Scrum master: Facilitador, garante a aplicação do Scrum,
+capitão da equipe ( que garante q as regras scrum )
+
+Dev team - Auto organizados, multifuncionais, 
+empoderados, responsaveis pelo resultado, uma vez compro
+metido deve ser entregue de 3 à 9
+
+---------------DOC SHAREPOINT----------------------------------------------------
+Def.: Scrum é framework leve que ajuda pessoas, organizações, times a resolverem
+problemas complexos por meio de soluções adaptativa
+
+Soluções adaptativas - podem ocorrer variações nas taks e historias no decorrer 
+da sprint, ou então no backlog devido a necessidades
+ou pedido do cliente/PO
+
+Problemas complexos - no nosso caso os produtos que a HST possui, 
+por exemplo, tokenization, QR code payment e etc.
+
+--------------------------------------------------------------------------------
+Abordagens Gerais do Scrum & Agile
+
+Justificativa de negocio - Aquilo que vai determinar
+se o proj vai chegar na equipe de trabalho
+deve ser feita com base no valor
+
+Mudança - É muito díficil definir todos os requisitos
+durante o início do projeto. Aprendizadoo durante cad
+sprint, podendo mudar a maneira de trabalho
+
+------------------------------------------------------
+----                   PARTE 2                    ----
+------------------------------------------------------
+                    Manifesto Ágil 
+------------------------------------------------------
+17 gurus se reuniram e realizaram aliança ágil
+elaboraram o manifesto do desenvolvimento ágil de soft.
+
+VALORIZAR
+* individuos e interações a ferramentas
+* softwares em funcionamento a doc. , contrato e etc
+* colaboração com o cliente (trazer o clinte para o desenvolvimento)
+* responder a mudanças
+
+NÃO VALORIZAR/IMPORTANTE TBM (VALORIZAR MENOS)
+* processos e ferramentas 
+* documentação abrangente
+* negociação de contratos
+* seguir um plano
+
+12 PRINCIPIOS DO MANIFESTO ÁGIL 12:45
+
+1º - Satisfazer o cliente atraves de entrega de valor 
+contínua
+2º - Mudanças nos requisitos são bem-vindas
+3º - entregar frequentemente soft funcional
+4º - Pessoas de negocio e desenvolvedores devem trabalhar
+em conjunto
+5º - construa projetos em torno de individuos motivados
+6º - O método mais eficiente e eficaz de transmitir info
+é através de conversa cara a cara (diminuir erros de com)
+7º - Software funcionando é a medida de primária de progresso 
+
+8º - Os processos ageis geram uma saude melhor ao progresso
+9º - Contínua atenção à exelência técnica e bom design
+10º- Simplicidade é essencial.
+11º- As melhores arquiteturas emergem de times auto-orga-
+nizados.
+12º- Em intervalos regulares, o time reflete sobre como
+se tornar mais eficaz.
+
+DEclaração de Interdependencia (2005)
+
+Time + Cliente + stakeholder = unidos, dependentes
+
+= + ROI + resultados + criatividade + adaptação
++-----------------------------------+
+| PROJETOS, PROGRAMAS E PORTIFÓLIOS |
++-----------------------------------+
+
+PROJETO 
+
+Empreendimento colaborativo;
+com o objetivo de  criar novos produtos, conforme definido
+ma Declaração da Visão do Projeto;
+
+Esforço que vai entregar resultados;
+
+PROGRAMA
+
+Grupo de projetos relacionados, com o objetivo de entregar
+resultados de negócio, conforme definido na declaração de visao do programa.
+
+PORTIFÓLIO
+
+Grupo de programas, ou projetos, relacionados, com o objetivo de entregar 
+negocios de resultados de negócio.
+
+
++--------------------------------+
+| GESTAO DE PESSOAS E LIDERANÇAS |
++--------------------------------+
+
+
+Modelo de Tuckman
+
+Formação de equipe (1000 maravilhas) ->
+ tempestade (conflitos)-> normalização ->
+-> Realização 
+
+Técnicas de gerenciamento de conflitos 
+
+* Ganha-ganha: Os dois pos e scrums, se reunem e chegam a 
+conclusao de que há uma maneira de trabalhar com os dois times
+colaborativamente, reduzindo os custos e entregando os produtos de 
+ambos clientes
+
+
+
+
+
+
+
+
+
+
+

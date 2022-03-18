@@ -1,4 +1,4 @@
-JAVA
+JAVA 
 
 pacotes servem para organizar o projeto
 suas classes e interfaces;
@@ -55,4 +55,6 @@ Exemplo do carro, acelerar, freiar e virar
 Para realizar uma tarefa é necessário um método
 o metodo descreve o mecanismo necessario para realização da tarefa
 
-
+Encapsulamento esconde a implementação e dá acesso aos atributos somente
+através dos métodos, ou seja, uma alteração nos atributos nao 
+impactaria na utilização do funcionario. Metodos sao interfaces do objeto

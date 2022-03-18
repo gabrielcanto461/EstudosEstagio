@@ -1,0 +1,15 @@
+GMUD - Gestão de mudanças
+
+Conjunto de ações necessarias para detectar, implementar e controlar as mudanças necessárias e se certificar que não atin-
+ja o cliente.
+
+OBJETIVOS:
+
+* GErenciar todas as mudanças que podem causar impacto 
+* Garantir a utilizalção de métodos e procedimentos padrões , para  o manuseio rápidp e eficiente de todas as mudanças
+* Facilitar a implementação de mudançs aprovadas, de forma eficiente e dentro de um risco aceitável para o negócio
+* Obter a participação efetiva, comprometimento formal e co-responsabilidade das áreas envolvidas no planejamento e na im-
+plementação das mudanças
+
+
+

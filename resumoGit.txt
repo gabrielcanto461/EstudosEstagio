@@ -1,0 +1,78 @@
+giGIT - sistema de controle de versões
+
+Para que serve o GIT?
+
+O git serve para controlar versões de arquivos (projetos),
+quando se trabalha em equipe, mais de uma pessoa podem fazer 
+alterações, nesses casos as alterações devem ser enviadas a 
+um servidor que verifica se já houveram alterações, e, se sim, 
+não deixa um dev enviar uma alteração sem antes ter a última 
+versão que está no servidor.
+
+repositorios distribuidos - cada dev tem seu repositorio 
+autonomo e independente, podendo acessar offline
+
+conceitos importantes ***
+
+HEAD: Estado atual do nosso código, ou seja, 
+onde o Git os colocou
+
+WORKING TREE: local onde os arquivos estão realmente armazenados
+ou editados
+
+INDEX: Local onde o Git armazena o que será commitado, ou seja, o 
+local entre a working tree e o repositório git em si.
+
+link importante na alura: https://git-scm.com/book/pt-br/v2/Fundamentos-de-Git-Gravando-Altera%C3%A7%C3%B5es-em-Seu-Reposit%C3%B3rio
+
+https://devhints.io/git-log
+
+https://devhints.io/git-log-format
+
+*** nunca commitar codigos que nao funcione
+
+BRANCHES 
+são "ramos", são utilizados para desenvolver funcionalidades
+isoladas umas das outras. 
+É interessante separar o desenvolvimento de funcionalidades em 
+branches diferentes, para que as mudanças no código não influencie
+no funcionamento das outras
+
+qnd vc cria uma branch ela fica apenas no repositorio local
+para mandar ela p remoto
+
+git push -u <remote> <branch>
+ou 
+git push -u origin <branch_name>
+
+p deletar
+
+git branch -d <branch-name>
+
+GIT STASH
+
+salva alterações em andamento para continuar depois
+
+para pegar a ultima alteração e dropar
+
+git stash pop
+
+**desfazer alterações
+
+sem add
+
+git checkout -- nameFile.txt
+
+com add 
+
+git reset HEAD nameFile.txt
+git checkout -- nameFile.txt
+
+com commit 
+git revert <hash>
+
+
+duvida quando vou pra um comit x, com checkout;
+
+crio uma "branch" invisivel que continuo acessando ela?
+

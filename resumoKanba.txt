@@ -1,0 +1,199 @@
+kanban - como implantar kanban
+
+- reunir o time e pedir para escrever o que estao trabalhando 
+- os itens devem ser ordenados em colunas
+- usar software é dificil, entao comece pelos quadros 
+- information refrigerator e information radiator ( tv )
+
+Vantagens de visualizar o trabalho 
+- fazer o trabalho que esta escondido aparecer
+- tornar o trabalho visivel, a td que interessam
+- auxiliar o time a ver: qm esta fazendo oq , qntd de trabalho de cada, etc
+ 
+Dicas 
+
+- começar organizando as colunas por onde o trabalho começa
+- o nome das colunas podem ser alterados depois
+- o melhor modelo pe o criado pelo time
+- trablaho pronto é o que gera valor pro cliente
+...
+...
+..
+.
+
+Itens urgente:
+
+- Entra na linha urgente - Swin Lane
+- Impacta no WIP, resultando em impacto no fluxo
+- Politica do que é urgente
+
+WIP (aula mais importante) 
+
+Exemplo das moedas: - trabalho em progresso + rápido no final
+
+coluna de buffer: Enchendo até o limite e depois segue para
+em progresso
+
+Objetivo: melhorar o fluxo
+limitees muito ALTOS deixam TRABALHO parado
+limites muito BAIXOS deixam PESSOAS sem trabalho
+
+WIP ( Work in Progress), sobre várias dicas, tais como:
+
+*    Pare de começar e comece a terminar!
+
+*    Trabalhar em menos itens entrega valor mais rápido
+
+*    O WIP pode ser definido inicialmente por número de pessoas em cada atividade
+
+*    O time é a melhor fonte para definir seu limite de WIP
+
+*    Podemos criar uma coluna de buffer para atividades que envolvem apenas uma aprovação, por exemplo
+
+*    Limitar o WIP vai mostrar oportunidades de melhoria
+
+*    Agir sobre estas oportunidades vai melhorar o fluxo do trabalho
+
+*    Não existe um WIP “correto” para um time
+
+*    Em termos de limites de WIP, observamos que: limites muito ALTOS deixam o trabalho parado, já os limites muito BAIXOS deixam as pessoas paradas sem trabalho.
+
+Comol lidar com itens urgentes:
+
+* O time cria uma política para definir o q é urgente
+* Urgencia é criada no quadrado e tratada em uma raia separada
+* A importância de lembrarmos que a linha de itens de urgência criada mostra impacto no fluxo de trabalho
+
+MÉTRICAS KANBAN
+
+LEAD TIME: tempo que um item leva do começo até o término (fim do fluxo)
+
+Analisar possiveis causas de um lead time elevado:
+pgta> oq poderia ser feito para reduzir o tempo?
+
+CYCLE TIME: Tempo levado em um processo, no aceite por exemplo (Dsaida - Dent)
+
+Melhorar o gargalo em apenas uma parte voce passa o gargalo pra frente
+
+Metricas servem para ajudar a melhorar o desempenho do time
+Lead time = td tempo do fluxo
+Cycle = tempo para passar parte do fluxo
+
+THROUGHPUT 
+
+É o quanto o time entregou em um determinado periodo de tempo
+taxa de transferencia ou vazao
+
+
+ajuda na previsibilidade, calculando a média em um mes p.e.
+
+Ajuda a analisar se o fluxo esta melhorando, mudando o WIP melhora o Trhoughput?
+Ajuda na determinação de tempo necessario (previsao de entrega)
+
+
+REUNIOES KANBAN
+
+COmo auto ajustar?
+
+Perguntas
+1. Todo o nosso trabalho esta no quadro?
+2. Estamos trabalhando nas coisas certas?
+3. Nós entendemos o nosso trabalho?
+	(importante todos os trabalhos devem estar claros)
+
+LEAN KANBAN
+
+resumo principios:
+
+visualize
+limite o WIP 
+meça e gerencie o fluxo 
+torne as politicas do processo explicitas
+implemente mecanismos de feedback
+
+valores:
+
+transparencia
+foco no cliente
+entender 
+colaboração 
+liderança
+respeito
+balanceamento 
+fluxo 
+acordo
+
+STATIK
+
+System Thinking Approach to Introducing 
+Kanban, traz uma visão mais sitemica/geral
+para ajudar a implantar o Kankban no time.
+
+PASSOS:
+* Entender o propósito
+* Fontes de insatisfação do cliente (feedbacks)
+* Entender a demanda
+* Entender a capacidade
+* Modelar o workflow (ter um workflow "ideal" para
+satisfação do cliente)
+* Descubra classes de serviço
+* Realize o design do Kanban
+
+PROTO-KANBAN
+
+Sistema q o kanban é aplicado, mas não tem
+cara de kanban maduro.
+
+TIPOS
+
+* PEssoal (em escritorio, p exemplo)
+* Equipe Kanban
+* Limite WIP por pessoa
+* Cadencias desacopladas
+* Equipe Agregada Kanban (mais parecido)
+
+beneficios
+
+- mais simples de começar
+- transparencia 
+- alivio de sobrecarga
+- redução de multitarefas
+- começa a melhorar a visao como um time
+- pessoas engajadas emocionalmente
+
+Os sistemas Proto-Kanban podem trazer grandes
+benefícios para as organizações como por 
+exemplo: para tornar visível o
+trabalho intangível. Mas não devem ser vistos
+como pontos finais nas transformações de
+processo.
+
+CADENCIA DO KANBAN
+
+O que é?
+
+- Ocorre quando já tem um kanban implementado
+e previsibilidade
+- São reunioes e revisoes ciclicas - igual
+a review e planning - que impusionam mudanças
+evolutivas e melhorar a eficacia.
+- pode ser tambem o periodo entre as revisoes
+- ajuda melhor o feedback em todo o processo
+
+Aborda
+* Alinhamento estratégico (velocidade de entrega e qualidade)
+* Coordenação Operacional
+* Gerenciamento de riscos
+* Melhoria de Serviço
+* Reabastecimentos (relacionado a ideias, novas features)
+* Fluxo
+* Entregas ao cliente (moniterar e planejar as entregas)
+
+
+importante: mudanças causa consequencia em outra parte,
+portanto, ter um pensamento geral
+
+
+
+
+ 
